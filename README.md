@@ -13,6 +13,8 @@
 10. create a pull request to dev branch (attach your test screenshot to the pull request)– add the trainer as approval  
 11. after trainer approved – merge the Pull Request (PR) to dev branch  
 12. tag your code to 1.1  
+The solution for module 1 is in: https://github.com/shlomigispan/final-project/tree/shlomo_sol  
+
 ## Module – 2 Git & JAVA-MAVEN  
 1. First take the code from here https://github.com/lidorg-dev/spring-boot-examples -----from master branch  
 2. The code in Github is written in Java  
