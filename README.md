@@ -33,7 +33,7 @@
 13. do PR to trainer for approval with the screenshot of the fix  
 14. after successful merge -> tag the release to 0.0.2  
 
-**The solution for module 2 is in:** https://github.com/shlomigispan/spring-boot-examples/tree/shlomo_sol
+### The solution for module 2 is in: https://github.com/shlomigispan/spring-boot-examples/tree/shlomo_sol
 
 ## Module – 3 - Vagrant
 1. launch Ubuntu 18.04 box with docker latest installed on it while it launches for the first time  
@@ -50,7 +50,7 @@
 6. push the image to dokcer hub repo  
 7. send me the repo details in slack  
 
-**The solution for module 4 is in:** https://hub.docker.com/r/shlomigis/final-project-module-4/tags
+### The solution for module 4 is in: https://hub.docker.com/r/shlomigis/final-project-module-4/tags
 
 ## module 5- docker compose
 1. build docker compose file and deploy wordpress and mysql at the same time  
