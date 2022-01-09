@@ -33,6 +33,8 @@ The solution for module 1 is in: https://github.com/shlomigispan/final-project/t
 13. do PR to trainer for approval with the screenshot of the fix  
 14. after successful merge -> tag the release to 0.0.2  
 
+The solution for module 2 is in: https://github.com/shlomigispan/spring-boot-examples/tree/shlomo_sol
+
 ## Module – 3 - Vagrant
 1. launch Ubuntu 18.04 box with docker latest installed on it while it launches for the first time  
 2. launch Centos 7 box with docker latest installed on it while it launches for the first time  
