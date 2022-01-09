@@ -49,6 +49,9 @@ The solution for module 2 is in: https://github.com/shlomigispan/spring-boot-exa
 5. copy only the war file to docker container  
 6. push the image to dokcer hub repo  
 7. send me the repo details in slack  
+
+The solution for module 4 is in: https://hub.docker.com/r/shlomigis/final-project-module-4/tags
+
 ## module 5- docker compose
 1. build docker compose file and deploy wordpress and mysql at the same time  
 2. put the compose in your infra repo from module 3 and pull request to dev - and review to trainer  
