@@ -12,7 +12,9 @@
 9. test the new code in your Linux VM  
 10. create a pull request to dev branch (attach your test screenshot to the pull request)– add the trainer as approval  
 11. after trainer approved – merge the Pull Request (PR) to dev branch  
-12. tag your code to 1.1
+12. tag your code to 1.1  
+
+
 The solution for module 1 is in: https://github.com/shlomigispan/final-project/tree/shlomo_sol  
 
 ## Module – 2 Git & JAVA-MAVEN  
