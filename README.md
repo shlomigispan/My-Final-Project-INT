@@ -15,7 +15,7 @@
 12. tag your code to 1.1  
 
 
-### The solution for module 1 is in: https://github.com/shlomigispan/final-project/tree/shlomo_sol  
+### The solution for module 1 is in: https://github.com/shlomigispan/final-project/tree/dev  
 
 ## Module – 2 Git & JAVA-MAVEN  
 1. First take the code from here https://github.com/lidorg-dev/spring-boot-examples -----from master branch  
