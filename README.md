@@ -41,6 +41,10 @@
 3. create a git repo name infra  
 4. open 2 more branches from master branch  
 5. commit the scripts and the vagrantfiles to your branch and pull request to dev branch – put the trainer as reviewer  
+
+### The solution for module 3 is in: https://github.com/shlomigispan/infra/tree/dev
+
+
 ## module 4 – docker
 1. write dockerfile to this maven project https://github.com/lidorg-dev/hello-world-war  
 2. make sure you fork the repo  
@@ -55,6 +59,9 @@
 ## module 5- docker compose
 1. build docker compose file and deploy wordpress and mysql at the same time  
 2. put the compose in your infra repo from module 3 and pull request to dev - and review to trainer  
+
+### The solution for module 5 is in: https://github.com/shlomigispan/infra/tree/dev
+
 ## module 6- Jenkins
 1. Setup Jenkins or use the one you already have  
 2. Create a pipeline which :  
