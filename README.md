@@ -65,14 +65,14 @@
 ## module 6- Jenkins
 1. Setup Jenkins or use the one you already have  
 2. Create a pipeline which :  
-  a. checkout this code https://github.com/lidorg-dev/hello-world-war -> from branch dev  
-  b. from your own repo – make sure to trigger the pipeline for each change in the code  
-  c. build the maven war  
-  d. run static code analysis (use sonarqube)  
-  e. build the docker file using the dockerfile from module 4  
-  f. tag it with build id  
-  g. push the image with tag to Nexus private registry  
-  h. notify slack (create a new channel ) the buid is successful ( make sure to notify if one the steps failed )  
+  A. checkout this code https://github.com/lidorg-dev/hello-world-war -> from branch dev  
+  B. from your own repo – make sure to trigger the pipeline for each change in the code  
+  C. build the maven war  
+  D. run static code analysis (use sonarqube)  
+  E. build the docker file using the dockerfile from module 4  
+  F. tag it with build id  
+  G. push the image with tag to Nexus private registry  
+  H. notify slack (create a new channel ) the buid is successful ( make sure to notify if one the steps failed )  
 ## module 7- Jenkins- jobs
 1. create 7 jobs -> downstream jobs and copy workspace from each other  
 tip : use custom workspace plugin to make the same one for all the jobs  
