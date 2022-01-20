@@ -73,23 +73,7 @@
   F. tag it with build id  
   G. push the image with tag to Nexus private registry  
   H. notify slack (create a new channel ) the buid is successful ( make sure to notify if one the steps failed )  
-## module 7- Jenkins- jobs
-1. create 7 jobs -> downstream jobs and copy workspace from each other  
-tip : use custom workspace plugin to make the same one for all the jobs  
-job 1 -> checkout code from git using branch as parameter https://github.com/lidorgdev/aspnet4-sample.git so you can select them every time you trigger the job  
-job 2 -> build using msbuild  
-job 3 -> do static code analysis - > using sonar scanner  
-job4 -> use mstest – to do test  
-job 5-> package with nuget  
-job 6 -> upload to nexus -> nuget repo  
-job 7 – notify slack (use same channel as before )  
-2. make a pipeline view for this jobs  
-## module 8- Kubernetes
-1. please create an automation deployment of K8s ( 1 master , 2 workers)
-2. can be ( kops in aws , rancher, kubespray , kubeadm) using ansible or puppet or bash scripts
-## module 9 – deploy Prometheus 
-deploy Prometheus operator using Helm Chart and Grafana - > create a graph show metric of 
-nodes and pods off all namespaces 
-## module 10 – deploy app to k8s
-deploy the app from module 6 ( hellow-world-war) -> write your own deployment yaml -> 
-with replicas of 4 pods -> get the image from your nexus private registry
+
+### The solution for module 6 is in: https://github.com/shlomigispan/hello-world-war/tree/dev  
+
+
